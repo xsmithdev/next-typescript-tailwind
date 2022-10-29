@@ -65,7 +65,7 @@ export default function HomePage() {
 
 			<footer
 				className={
-					"flex flex-grow items-center justify-center py-8 dark:border-[#222]"
+					"flex flex-grow items-center justify-center border-t border-[#eaeaea] py-8 dark:border-[#222]"
 				}
 			>
 				<a
