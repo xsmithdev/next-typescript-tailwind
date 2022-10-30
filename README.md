@@ -17,6 +17,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## Features
 
 - [Husky](https://typicode.github.io/husky/): Modern native git hooks made easy
+- [CommitLint](https://commitlint.js.org/): 📓 Lint commit messages
 - [TailwindCSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
 - [Next 13](https://beta.nextjs.org/docs/): The React Framework
 
