@@ -15,6 +15,8 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
     "@types/node": "18.11.7",
     "@types/prettier": "^2",
     "@types/react": "18.0.24",
