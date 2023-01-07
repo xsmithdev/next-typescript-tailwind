@@ -30,7 +30,7 @@ export default function HomePage() {
 							"rounded-md bg-[#fafafa] p-3 font-mono text-lg dark:bg-[#111]"
 						}
 					>
-						pages/index.tsx
+						app/page.tsx
 					</code>
 				</p>
 
